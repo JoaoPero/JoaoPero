@@ -4,10 +4,10 @@
 - 🌱 Focado em Javascript junto com html5, css3 e bootstrap
 - 👨‍👩‍👦 Casado com a Bruna, pai do João Pedro (2,7 anos) e do 🐶Tony Stark (4 anos)
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JoaoPero/github-readme-stats">
   <img width="42%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPero&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/JoaoPero/convoychat">
   <img width="50%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPero&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
